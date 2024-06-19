@@ -23,4 +23,4 @@ A reaaaaaly simple cs2 esp cheat     使用go语言
 ## 更新offsets.json
   你可以从cs2-dumper获得最新的`offsets.json`
 ## What's new
-  我添加了`build.cmd`，可以在安装GO之双击此文件可以直接编译(相当于输入go build -ldflags "-s -w")
+  我添加了`build.cmd`，可以在安装GO之后双击此文件可以直接编译(相当于输入go build -ldflags "-s -w")
